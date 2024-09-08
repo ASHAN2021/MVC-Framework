@@ -1,3 +1,1 @@
-<h1>Home page view</h1>
-
-<img src="<?=ROOT ?>/assets/images/image.png">
+<h1> Home Page View</h1>

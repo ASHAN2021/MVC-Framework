@@ -1,7 +1,7 @@
 <?php
 
-function show($stuff){
+function show($staff){
     echo "<pre>";
-    print_r($stuff);
+    print_r($staff);
     echo "</pre>";
 }
